@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\OneDrive\\Documents\\VIA Documents\\SEM3\\IT-DNP1Z-A18\\Session_8\\Exercise_5\\Exercise_4.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

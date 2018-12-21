@@ -1,0 +1,11 @@
+C:\Users\AI3-PC\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_4\Exercise_1_Streaming\bin\Debug\netcoreapp2.1\Exercise_1_Streaming.deps.json
+C:\Users\AI3-PC\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_4\Exercise_1_Streaming\bin\Debug\netcoreapp2.1\Exercise_1_Streaming.runtimeconfig.json
+C:\Users\AI3-PC\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_4\Exercise_1_Streaming\bin\Debug\netcoreapp2.1\Exercise_1_Streaming.runtimeconfig.dev.json
+C:\Users\AI3-PC\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_4\Exercise_1_Streaming\bin\Debug\netcoreapp2.1\Exercise_1_Streaming.dll
+C:\Users\AI3-PC\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_4\Exercise_1_Streaming\bin\Debug\netcoreapp2.1\Exercise_1_Streaming.pdb
+C:\Users\AI3-PC\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_4\Exercise_1_Streaming\obj\Debug\netcoreapp2.1\Exercise_1_Streaming.csprojAssemblyReference.cache
+C:\Users\AI3-PC\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_4\Exercise_1_Streaming\obj\Debug\netcoreapp2.1\Exercise_1_Streaming.csproj.CoreCompileInputs.cache
+C:\Users\AI3-PC\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_4\Exercise_1_Streaming\obj\Debug\netcoreapp2.1\Exercise_1_Streaming.AssemblyInfoInputs.cache
+C:\Users\AI3-PC\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_4\Exercise_1_Streaming\obj\Debug\netcoreapp2.1\Exercise_1_Streaming.AssemblyInfo.cs
+C:\Users\AI3-PC\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_4\Exercise_1_Streaming\obj\Debug\netcoreapp2.1\Exercise_1_Streaming.dll
+C:\Users\AI3-PC\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_4\Exercise_1_Streaming\obj\Debug\netcoreapp2.1\Exercise_1_Streaming.pdb

@@ -1,0 +1,747 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 474,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "EcRQAAAAYAAJ",
+   "etag": "MIhd+Q2Z4hc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EcRQAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Query",
+    "publishedDate": "1993",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "CORNELL:31924074670104"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Universities and colleges"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=EcRQAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=EcRQAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.dk/books?id=EcRQAAAAYAAJ&q=query&dq=query&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.dk/books?id=EcRQAAAAYAAJ&dq=query&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Query.html?hl=&id=EcRQAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "DK",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "DK",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=EcRQAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gqDf__ULmR8C",
+   "etag": "4IvicJ/b5ik",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gqDf__ULmR8C",
+   "volumeInfo": {
+    "title": "Flexible Query Answering Systems",
+    "subtitle": "8th International Conference, FQAS 2009, Roskilde, Denmark, October 26-28, 2009, Proceedings",
+    "authors": [
+     "Troels Andreasen",
+     "Ronald R. Yager",
+     "Henrik Bulskov",
+     "Henning Christiansen",
+     "Henrik Legind Larsen"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2009-10-15",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783642049569"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3642049567"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 676,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gqDf__ULmR8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gqDf__ULmR8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.dk/books?id=gqDf__ULmR8C&pg=PA54&dq=query&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.dk/books?id=gqDf__ULmR8C&dq=query&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Flexible_Query_Answering_Systems.html?hl=&id=gqDf__ULmR8C"
+   },
+   "saleInfo": {
+    "country": "DK",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "DK",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.dk/books/download/Flexible_Query_Answering_Systems-sample-pdf.acsm?id=gqDf__ULmR8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gqDf__ULmR8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Most approaches use RDF (Resource Description Framework) and a \u003cb\u003equery\u003c/b\u003e \u003cbr\u003e\nlanguage such as SPARQL to support the exploration of data [4]. This means that \u003cbr\u003e\ndatabases modeled in traditional relational database structures most likely need \u003cbr\u003e\nto&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5EzJLuANGDwC",
+   "etag": "iqevO6DA3PE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5EzJLuANGDwC",
+   "volumeInfo": {
+    "title": "Adaptive Query Processing",
+    "authors": [
+     "Amol Deshpande",
+     "Zachary Ives",
+     "Vijayshankar Raman"
+    ],
+    "publisher": "Now Publishers Inc",
+    "publishedDate": "2007",
+    "description": "Adaptive Query Processing surveys the fundamental issues, techniques, costs, and benefits of adaptive query processing. It begins with a broad overview of the field, identifying the dimensions of adaptive techniques. It then looks at the spectrum of approaches available to adapt query execution at runtime - primarily in a non-streaming context. The emphasis is on simplifying and abstracting the key concepts of each technique, rather than reproducing the full details available in the papers. The authors identify the strengths and limitations of the different techniques, demonstrate when they are most useful, and suggest possible avenues of future research. Adaptive Query Processing serves as a valuable reference for students of databases, providing a thorough survey of the area. Database researchers will benefit from a more complete point of view, including a number of approaches which they may not have focused on within the scope of their own research.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781601980342"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1601980345"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 146,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5EzJLuANGDwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5EzJLuANGDwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.dk/books?id=5EzJLuANGDwC&pg=PA27&dq=query&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.dk/books?id=5EzJLuANGDwC&dq=query&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Adaptive_Query_Processing.html?hl=&id=5EzJLuANGDwC"
+   },
+   "saleInfo": {
+    "country": "DK",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "DK",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.dk/books/download/Adaptive_Query_Processing-sample-epub.acsm?id=5EzJLuANGDwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5EzJLuANGDwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The goal of adaptive \u003cb\u003equery\u003c/b\u003e processing is to find an execution plan and a \u003cbr\u003e\nschedule that are well-suited to runtime conditions; it does this by interleaving \u003cbr\u003e\n\u003cb\u003equery\u003c/b\u003e execution with exploration or modification of the plan or scheduling space. \u003cbr\u003e\nAt a very&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3d4CZIaNHC4C",
+   "etag": "tFleFMOY8LM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3d4CZIaNHC4C",
+   "volumeInfo": {
+    "title": "Flexible Query Answering Systems",
+    "subtitle": "Recent Advances",
+    "authors": [
+     "Henrik L. Larsen",
+     "Januss Kacprzyk",
+     "Slawomir Zadrozny",
+     "Troels Andreasen",
+     "Henning Christiansen"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2000-10-26",
+    "description": "These proceedings of the Fourth International Conference on Flexible Query Answering Systems covers the whole array of fields related to users posing flexible queries and (electronic) systems producing answers. The FQAS 2000 Conference has been the premier conference focusing on one of the key issues the information society is facing, namely that of providing easy, flexible, intuitive access to information to everybody. In targeting this issue, the conference draws on several research areas such as databases, querying, information retrieval, knowledge representation, soft computing, cyberspace, multimedia systems, human-computer interaction. This volume provides a unique opportunity for researchers, developers and practitioners to explore new ideas and approaches in a multidisciplinary forum.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3790813478"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783790813470"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 612,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=3d4CZIaNHC4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=3d4CZIaNHC4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.dk/books?id=3d4CZIaNHC4C&pg=PA3&dq=query&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.dk/books?id=3d4CZIaNHC4C&dq=query&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Flexible_Query_Answering_Systems.html?hl=&id=3d4CZIaNHC4C"
+   },
+   "saleInfo": {
+    "country": "DK",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "DK",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.dk/books/download/Flexible_Query_Answering_Systems-sample-pdf.acsm?id=3d4CZIaNHC4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=3d4CZIaNHC4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Materialized summary tables and cached \u003cb\u003equery\u003c/b\u003e results are frequently used for \u003cbr\u003e\nthe optimization of aggregate queries in a data warehouse. \u003cb\u003eQuery\u003c/b\u003e rewriting \u003cbr\u003e\ntechniques are incorporated into database systems to use those materialized \u003cbr\u003e\nviews and&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HmP0Jp6reFQC",
+   "etag": "1Z8suxNZ6z8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HmP0Jp6reFQC",
+   "volumeInfo": {
+    "title": "Efficient Query Processing in Geographic Information Systems",
+    "authors": [
+     "Beng Chin Ooi"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "1990-11-28",
+    "description": "Very Good,No Highlights or Markup,all pages are intact.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3540534741"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783540534747"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=HmP0Jp6reFQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=HmP0Jp6reFQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.dk/books?id=HmP0Jp6reFQC&pg=PA136&dq=query&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.dk/books?id=HmP0Jp6reFQC&dq=query&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Efficient_Query_Processing_in_Geographic.html?hl=&id=HmP0Jp6reFQC"
+   },
+   "saleInfo": {
+    "country": "DK",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "DK",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.dk/books/download/Efficient_Query_Processing_in_Geographic-sample-epub.acsm?id=HmP0Jp6reFQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.dk/books/download/Efficient_Query_Processing_in_Geographic-sample-pdf.acsm?id=HmP0Jp6reFQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HmP0Jp6reFQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "5.1 Motivation The \u003cb\u003equery\u003c/b\u003e optimizer is an important component of a relational \u003cbr\u003e\ndatabase management system. Its main task is to produce an efficient \u003cb\u003equery\u003c/b\u003e \u003cbr\u003e\nevaluation plan for a given \u003cb\u003equery\u003c/b\u003e. However, most optimizers in existing systems \u003cbr\u003e\nhave&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8SaP5qqjb0sC",
+   "etag": "ZUuCwlyDNo8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8SaP5qqjb0sC",
+   "volumeInfo": {
+    "title": "Flexible Query Answering Systems",
+    "subtitle": "6th International Conference, FQAS 2004, Lyon, France, June 24-26, 2004, Proceedings",
+    "authors": [
+     "Henning Christiansen",
+     "Mohand-Said Hacid",
+     "Troels Andreasen",
+     "Henrik Legind Larsen"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2004-06-17",
+    "description": "ThisvolumeconstitutestheproceedingsoftheSixthInternationalConferenceon Flexible Query Answering Systems, FQAS 2004, held in Lyon, France, on June 24–26, 2004. FQAS is the premier conference for researchers and practitioners concerned with the vital task of providing easy, ?exible, and intuitive access to information for every type of need. This multidisciplinary conference draws on several research areas, including databases, information retrieval, knowledge representation, soft computing, multimedia, and human-computer interaction. With FQAS 2004, the FQAS conference series celebrated its tenth anniversary as it has been held every two years since 1994. The overall theme of the FQAS conferences is innovative query systems aimed at providing easy, ?exible, and intuitive access to information. Such systems are intended to facilitate retrieval from information repositories such as databases, libraries, and the Web. These repositories are typically equipped with standard query systems that are often inadequate for users. The focus of FQAS is the development of query systems that are more expressive, informative, cooperative, productive, and intuitive to use.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783540221609"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3540221603"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 500,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=8SaP5qqjb0sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=8SaP5qqjb0sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.dk/books?id=8SaP5qqjb0sC&pg=PA125&dq=query&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.dk/books?id=8SaP5qqjb0sC&dq=query&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Flexible_Query_Answering_Systems.html?hl=&id=8SaP5qqjb0sC"
+   },
+   "saleInfo": {
+    "country": "DK",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "DK",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.dk/books/download/Flexible_Query_Answering_Systems-sample-epub.acsm?id=8SaP5qqjb0sC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.dk/books/download/Flexible_Query_Answering_Systems-sample-pdf.acsm?id=8SaP5qqjb0sC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=8SaP5qqjb0sC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "125 \u003cb\u003eQuery\u003c/b\u003e Answering Based on Collaboration and Chase Zbigniew W. Ra ́s1,2 \u003cbr\u003e\nand Agnieszka Dardzińska3,1 1 UNC-Charlotte, Department of Computer \u003cbr\u003e\nScience, Charlotte, N.C. 28223, USA 2 Polish Academy of Sciences, Institute of&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "elh8ydHWtTYC",
+   "etag": "WnFB8G+Whx8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/elh8ydHWtTYC",
+   "volumeInfo": {
+    "title": "Mastering the AS/400",
+    "subtitle": "A Practical, Hands-On Guide",
+    "authors": [
+     "Jerry Fottral"
+    ],
+    "publisher": "System iNetwork",
+    "publishedDate": "2000-01-01",
+    "description": "Annotation A hands-on approach to learning library-object structure, utilities and database management capabilities, application development tools, and OS/400 Control Language (CL), for the AS/400 computer. Twelve lessons, based largely on lab exercises, teach students how to communicate with the system, and use its many features, including CL, Query/400, logical files, DFU, SQL, and SDA. Annotation copyrighted by Book News, Inc., Portland, OR.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1583040706"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781583040706"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 553,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 5,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=elh8ydHWtTYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=elh8ydHWtTYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.dk/books?id=elh8ydHWtTYC&pg=PA318&dq=query&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.dk/books?id=elh8ydHWtTYC&dq=query&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Mastering_the_AS_400.html?hl=&id=elh8ydHWtTYC"
+   },
+   "saleInfo": {
+    "country": "DK",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "DK",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=elh8ydHWtTYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Once you have created a new version of a physical file (in this case, EMPPF) , \u003cbr\u003e\nyou need to recompile any programs or \u003cb\u003equery\u003c/b\u003e definitions that direcdy refer to the \u003cbr\u003e\nphysical file. The system uses a safety feature called level checking to ensure \u003cbr\u003e\nthat&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "g7YNeVDDbVgC",
+   "etag": "EeYUCiGBYro",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/g7YNeVDDbVgC",
+   "volumeInfo": {
+    "title": "Flexible Query Answering Systems",
+    "subtitle": "7th International Conference, FQAS 2006, Milan, Italy, June 7-10, 2006",
+    "authors": [
+     "Henrik Legind Larsen"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2006-05-30",
+    "description": "This book constitutes the refereed proceeding of the 7th International Conference on Flexible Query Answering Systems, FQAS 2006, held in Milan, Italy in June 2006.The 60 revised full papers presented were carefully reviewed and selected from numerous submissions. The papers are organized in topical sections on flexibility in database management and quering, vagueness and uncertainty in XML quering and retrieval, information retrieval and filtering, multimedia information access, user modeling and personalization, knowledge and data extraction, intelligent information extraction from text, and knowledge representation and reasoning.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783540346388"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3540346384"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 714,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=g7YNeVDDbVgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=g7YNeVDDbVgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.dk/books?id=g7YNeVDDbVgC&pg=PA1&dq=query&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.dk/books?id=g7YNeVDDbVgC&dq=query&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Flexible_Query_Answering_Systems.html?hl=&id=g7YNeVDDbVgC"
+   },
+   "saleInfo": {
+    "country": "DK",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "DK",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=g7YNeVDDbVgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Consistent \u003cb\u003equery\u003c/b\u003e answering is the term commonly used for the problem of \u003cbr\u003e\nanswering queries on databases that violate certain integrity constraints. We \u003cbr\u003e\naddress this problem for universal relations that are inconsistent with respect to a \u003cbr\u003e\nset of&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SdwORcrO5VUC",
+   "etag": "ZfiZudpEx6Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SdwORcrO5VUC",
+   "volumeInfo": {
+    "title": "Network Query Language (NQL)",
+    "authors": [
+     "David Pallmann"
+    ],
+    "publisher": "John Wiley & Sons",
+    "publishedDate": "2002-07-25",
+    "description": "An unparalleled opportunity to learn about an exciting new technology that is revolutionizing network and Internet content delivery Network Query Language (NQL) is a revolutionary new scripting language that makes it astonishingly quick and easy to aggregate, analyze, interpret, and redistribute information via networks. Described as the \"first language of the content engineering era,\" NQL allows programmers to develop bots, intelligent agents, middleware, and sophisticated Web applications in a small fraction of the time it would ordinarily take. This book offers developers and network administrators an unparalleled opportunity to learn about this exciting new technology-what it is, how it works, and how to use and make the most of its many features-from the man who invented it. CD-ROM contains a 60-day-timeout version of NQL in both Windows and Java (Linux and Macintosh) formats.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780471272038"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0471272035"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 688,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=SdwORcrO5VUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=SdwORcrO5VUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.dk/books?id=SdwORcrO5VUC&pg=PA465&dq=query&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.dk/books?id=SdwORcrO5VUC&dq=query&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Network_Query_Language_NQL.html?hl=&id=SdwORcrO5VUC"
+   },
+   "saleInfo": {
+    "country": "DK",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "DK",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.dk/books/download/Network_Query_Language_NQL-sample-pdf.acsm?id=SdwORcrO5VUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=SdwORcrO5VUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Network \u003cb\u003eQuery\u003c/b\u003e Language includes support for four kinds of neural networks. This \u003cbr\u003e\nchapter begins with background information on neural networks, then goes on to \u003cbr\u003e\ndescribe how they are created, trained, and applied in NQL. In the tutorial at the&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5W48QXOt_ycC",
+   "etag": "KA2SBuega4Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5W48QXOt_ycC",
+   "volumeInfo": {
+    "title": "Advanced Query Processing",
+    "subtitle": "Volume 1: Issues and Trends",
+    "authors": [
+     "Barbara Catania",
+     "Lakhmi C. Jain"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2012-07-28",
+    "description": "This research book presents key developments, directions, and challenges concerning advanced query processing for both traditional and non-traditional data. A special emphasis is devoted to approximation and adaptivity issues as well as to the integration of heterogeneous data sources. The book will prove useful as a reference book for senior undergraduate or graduate courses on advanced data management issues, which have a special focus on query processing and data integration. It is aimed for technologists, managers, and developers who want to know more about emerging trends in advanced query processing.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783642283239"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3642283233"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 350,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5W48QXOt_ycC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5W48QXOt_ycC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.dk/books?id=5W48QXOt_ycC&pg=PA68&dq=query&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=5W48QXOt_ycC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-5W48QXOt_ycC"
+   },
+   "saleInfo": {
+    "country": "DK",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 1212.37,
+     "currencyCode": "DKK"
+    },
+    "retailPrice": {
+     "amount": 848.66,
+     "currencyCode": "DKK"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=5W48QXOt_ycC&rdid=book-5W48QXOt_ycC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.21237E9,
+       "currencyCode": "DKK"
+      },
+      "retailPrice": {
+       "amountInMicros": 8.4866E8,
+       "currencyCode": "DKK"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "DK",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.dk/books/download/Advanced_Query_Processing-sample-pdf.acsm?id=5W48QXOt_ycC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5W48QXOt_ycC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eQuery\u003c/b\u003e personalization methods consider that user preferences are provided as a \u003cbr\u003e\nuser profile. At \u003cb\u003equery\u003c/b\u003e time, the goal is to find which preferences should be taken \u003cbr\u003e\ninto consideration in the context of a \u003cb\u003equery\u003c/b\u003e and integrate them into \u003cb\u003equery\u003c/b\u003e&nbsp;..."
+   }
+  }
+ ]
+}

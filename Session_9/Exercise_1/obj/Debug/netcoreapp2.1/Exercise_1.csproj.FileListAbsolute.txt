@@ -1,0 +1,14 @@
+D:\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_9\Exercise_1\bin\Debug\netcoreapp2.1\Exercise_1.deps.json
+D:\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_9\Exercise_1\bin\Debug\netcoreapp2.1\Exercise_1.runtimeconfig.json
+D:\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_9\Exercise_1\bin\Debug\netcoreapp2.1\Exercise_1.runtimeconfig.dev.json
+D:\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_9\Exercise_1\bin\Debug\netcoreapp2.1\Exercise_1.dll
+D:\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_9\Exercise_1\bin\Debug\netcoreapp2.1\Exercise_1.pdb
+D:\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_9\Exercise_1\obj\Debug\netcoreapp2.1\Exercise_1.csprojAssemblyReference.cache
+D:\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_9\Exercise_1\obj\Debug\netcoreapp2.1\Exercise_1.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_9\Exercise_1\obj\Debug\netcoreapp2.1\Exercise_1.RazorAssemblyInfo.cache
+D:\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_9\Exercise_1\obj\Debug\netcoreapp2.1\Exercise_1.RazorAssemblyInfo.cs
+D:\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_9\Exercise_1\obj\Debug\netcoreapp2.1\Exercise_1.AssemblyInfoInputs.cache
+D:\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_9\Exercise_1\obj\Debug\netcoreapp2.1\Exercise_1.AssemblyInfo.cs
+D:\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_9\Exercise_1\obj\Debug\netcoreapp2.1\Exercise_1.RazorTargetAssemblyInfo.cache
+D:\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_9\Exercise_1\obj\Debug\netcoreapp2.1\Exercise_1.dll
+D:\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_9\Exercise_1\obj\Debug\netcoreapp2.1\Exercise_1.pdb
