@@ -1,11 +1,9 @@
-﻿using System;
-using Exercise_5;
-namespace Exercise_5
+using System;
+
+namespace Funny
 {
-    public class Program
+    class Clown
     {
-        public void printMsg() {
-        Console.WriteLine("Hello, I am a clown! Honk, honk!");
-        }
+
     }
 }

@@ -2,18 +2,16 @@ using System;
 
 namespace Exercise_2
 {
-    class FullTimeEmployee : Employee
+    public class FullTimeEmployee : Employee
     {
-
-        private double _monthlySalary;
-
-        public FullTimeEmployee(string name, double monthlySalary) : base(name) {
-            _monthlySalary = monthlySalary;
+        private double monthlySalary;
+        public FullTimeEmployee(string name, double monthlySalary) : base (name) 
+        {
+            this.monthlySalary = monthlySalary;
         }
 
-        public override double GetMonthSalary()
-        {
-            return _monthlySalary;
+        public override double GetMonthlySalary() {
+            return monthlySalary;
         }
     }
 }

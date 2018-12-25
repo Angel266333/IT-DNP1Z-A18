@@ -9,3 +9,14 @@ C:\Users\AI3-PC\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_1\Exe
 C:\Users\AI3-PC\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_1\Exercise_9\obj\Debug\netcoreapp2.1\Exercise_9.AssemblyInfo.cs
 C:\Users\AI3-PC\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_1\Exercise_9\obj\Debug\netcoreapp2.1\Exercise_9.dll
 C:\Users\AI3-PC\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_1\Exercise_9\obj\Debug\netcoreapp2.1\Exercise_9.pdb
+D:\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_1\Exercise_9\bin\Debug\netcoreapp2.1\Exercise_9.deps.json
+D:\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_1\Exercise_9\bin\Debug\netcoreapp2.1\Exercise_9.runtimeconfig.json
+D:\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_1\Exercise_9\bin\Debug\netcoreapp2.1\Exercise_9.runtimeconfig.dev.json
+D:\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_1\Exercise_9\bin\Debug\netcoreapp2.1\Exercise_9.dll
+D:\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_1\Exercise_9\bin\Debug\netcoreapp2.1\Exercise_9.pdb
+D:\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_1\Exercise_9\obj\Debug\netcoreapp2.1\Exercise_9.csprojAssemblyReference.cache
+D:\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_1\Exercise_9\obj\Debug\netcoreapp2.1\Exercise_9.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_1\Exercise_9\obj\Debug\netcoreapp2.1\Exercise_9.AssemblyInfoInputs.cache
+D:\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_1\Exercise_9\obj\Debug\netcoreapp2.1\Exercise_9.AssemblyInfo.cs
+D:\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_1\Exercise_9\obj\Debug\netcoreapp2.1\Exercise_9.dll
+D:\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_1\Exercise_9\obj\Debug\netcoreapp2.1\Exercise_9.pdb

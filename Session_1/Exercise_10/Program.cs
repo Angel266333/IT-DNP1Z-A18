@@ -21,8 +21,13 @@ namespace Exercise_10
             try
             {
                 Console.WriteLine("Please enter two numbers:");
+                try {
                 numberOne = Convert.ToInt32(Console.ReadLine());
                 numberTwo = Convert.ToInt32(Console.ReadLine());
+                } catch (OverflowException e) {
+                    Console.WriteLine("Value is too big!");
+                    return;
+                }
                 Console.WriteLine("Numbers entered are: " + numberOne + "," + numberTwo);
                 Console.WriteLine("Please enter one of the following operation signs:\nPLUS(+), MINUS(-), DIVISION(/), MULTIPLICATION(*)");
                 operatorSign = Console.ReadLine();
@@ -113,7 +118,11 @@ namespace Exercise_10
                 operationNumber = 3;
                 nonOverloadedValue = Calculator.Division(numberOne, numberTwo);
                 Console.WriteLine("Operation number is: " + operationNumber);
-                return numberOne / numberTwo; // TODO FIX
+                try {
+                return numberOne / numberTwo;
+                } catch (DivideByZeroException e) {
+                    return 0;
+                }
                 // return Divison(arrayIntegersOne, arrayIntegersTwo); 
             }   //-/-////////////////////////////////////////////
                 //                                             \\
@@ -149,7 +158,12 @@ namespace Exercise_10
         {
             int epsilon = arrayIntegersOne[0];
             int zeta = arrayIntegersTwo[0];
+            try {
             return epsilon / zeta;
+            } catch (DivideByZeroException e) {
+                Console.WriteLine("Division attempt unsucessful!");
+                return 0;
+            }
         }
 
         public static int Multiplication(int[] arrayIntegersOne, int[] arrayIntegersTwo)

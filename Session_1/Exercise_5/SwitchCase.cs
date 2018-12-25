@@ -7,6 +7,7 @@ namespace Exercise_5
         static void Main(string[] args)
         {
             while(true) {
+                try {
                 Console.WriteLine("Please enter a number between 0 and 10: ");
                 string input = Console.ReadLine();
                 int number = Convert.ToInt32(input);
@@ -15,7 +16,7 @@ namespace Exercise_5
                     Console.WriteLine("Invalid input! Please enter a valid number!");
                 }
             
-                 else
+                 else if (number >= 0 || number <= 10)
                 {
                     switch (number)
                     {
@@ -27,6 +28,9 @@ namespace Exercise_5
                             break;
                     }
                 Console.WriteLine(number);
+                }
+                } catch (FormatException e) {
+                    Console.WriteLine("Invalid input!");
                 }
         }
     }

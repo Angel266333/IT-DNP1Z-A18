@@ -4,15 +4,17 @@ namespace Exercise_2
 {
     public class PartTimeEmployee : Employee
     {
-        private double _hourlyWage;
-        private int _hoursPerMonth;
+        private double hourlyWage;
+        private int hoursPerMonth;
 
-        public PartTimeEmployee(string name, int hoursPerMonth, double hourlyWage) : base(name) {
-            _hourlyWage = hourlyWage;
-            _hoursPerMonth = hoursPerMonth;
+        public PartTimeEmployee(string name, double hourlyWage, int hoursPerMonth) : base (name) 
+        {
+            this.hourlyWage = hourlyWage;
+            this.hoursPerMonth = hoursPerMonth;
         }
-        public override double GetMonthSalary() {
-            return _hourlyWage * _hoursPerMonth;
+
+        public override double GetMonthlySalary() {
+            return hourlyWage * hoursPerMonth;
         }
     }
 }

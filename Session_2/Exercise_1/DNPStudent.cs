@@ -1,12 +1,12 @@
 using System;
 
-namespace Session_2
+namespace Exercise_1
 {
     public class DNPStudent : Student
     {
-
-        public override void Hi() {
-            base.Hi();
+        public override void SayHi() {
+            Console.WriteLine("Hi! I am a DNP student!");
+            base.SayHi();
         }
-    }
+}
 }

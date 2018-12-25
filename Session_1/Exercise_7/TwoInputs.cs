@@ -27,7 +27,6 @@ namespace Exercise_7
             {
                 Console.WriteLine("The numbers are equal! You entered: " + numberOne + " for both inputs!");
             }
-
         }
     }
 }

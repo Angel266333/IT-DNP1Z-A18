@@ -1,11 +1,11 @@
 using System;
 
-namespace Session_2
+namespace Exercise_1
 {
     public class Student
     {
-        public virtual void Hi() {
-        String hello = "Hi";
+        public virtual void SayHi() {
+        Console.WriteLine("Hi. Hi am a student.");
         }
     }
 }

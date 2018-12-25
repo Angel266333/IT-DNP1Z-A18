@@ -2,14 +2,15 @@ using System;
 
 namespace Exercise_2
 {
-   public abstract class Employee
+    public abstract class Employee
     {
-        private String _name;
+        private string name;
 
-        public Employee(String name) {
-            _name = name;
+        public Employee(string name)
+        {
+            this.name = name;
         }
-    public abstract double getMonthSalary() { 
-    }
+
+        public abstract double GetMonthlySalary();
     }
 }

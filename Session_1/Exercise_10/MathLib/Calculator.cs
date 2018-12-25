@@ -14,7 +14,12 @@ namespace MathLib
         }
         public static int Division(int numberOne, int numberTwo)
         {
+            try {
             return numberOne / numberTwo;
+            } catch (DivideByZeroException e) {
+                Console.WriteLine("Cannot divide by zero!");
+            }
+            return 0;
         }
         public static int Multiplication(int numberOne, int numberTwo)
         {

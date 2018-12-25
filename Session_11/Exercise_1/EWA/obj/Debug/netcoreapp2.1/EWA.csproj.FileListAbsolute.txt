@@ -1,0 +1,14 @@
+D:\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_11\Exercise_1\EWA\bin\Debug\netcoreapp2.1\EWA.deps.json
+D:\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_11\Exercise_1\EWA\bin\Debug\netcoreapp2.1\EWA.runtimeconfig.json
+D:\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_11\Exercise_1\EWA\bin\Debug\netcoreapp2.1\EWA.runtimeconfig.dev.json
+D:\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_11\Exercise_1\EWA\bin\Debug\netcoreapp2.1\EWA.dll
+D:\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_11\Exercise_1\EWA\bin\Debug\netcoreapp2.1\EWA.pdb
+D:\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_11\Exercise_1\EWA\obj\Debug\netcoreapp2.1\EWA.csprojAssemblyReference.cache
+D:\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_11\Exercise_1\EWA\obj\Debug\netcoreapp2.1\EWA.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_11\Exercise_1\EWA\obj\Debug\netcoreapp2.1\EWA.RazorAssemblyInfo.cache
+D:\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_11\Exercise_1\EWA\obj\Debug\netcoreapp2.1\EWA.RazorAssemblyInfo.cs
+D:\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_11\Exercise_1\EWA\obj\Debug\netcoreapp2.1\EWA.AssemblyInfoInputs.cache
+D:\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_11\Exercise_1\EWA\obj\Debug\netcoreapp2.1\EWA.AssemblyInfo.cs
+D:\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_11\Exercise_1\EWA\obj\Debug\netcoreapp2.1\EWA.RazorTargetAssemblyInfo.cache
+D:\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_11\Exercise_1\EWA\obj\Debug\netcoreapp2.1\EWA.dll
+D:\OneDrive\Documents\VIA Documents\SEM3\IT-DNP1Z-A18\Session_11\Exercise_1\EWA\obj\Debug\netcoreapp2.1\EWA.pdb

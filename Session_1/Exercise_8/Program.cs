@@ -10,7 +10,7 @@ namespace Exercise_8
         {
             Console.WriteLine("Please enter your name: ");
             string input = Console.ReadLine();
-            Console.WriteLine("The reversed string is:\n" + Reverse(input));
+            Console.WriteLine("Your name reversed is:\n" + Reverse(input));
         }
 
         public static string Reverse(string s)
